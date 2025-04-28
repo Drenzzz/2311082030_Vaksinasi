@@ -107,6 +107,10 @@ php artisan serve
 
 Aplikasi ini dikembangkan sebagai tugas UTS mata kuliah Web Framework - Progam Studi D4 TRPL - Jurusan Teknologi Informasi - Politeknik Negeri Padang.
 
+## Dokumentasi Penjelasan
+
+Untuk penjelasan tentang proh=gram yang saya buat, bis a dilihat video youtube saya [disini](https://youtu.be/WthPEUq2L0I)
+
 ## Kontributor
 
 - Drenzzz a.k.a Muhammad Naufal Nazya Azzharif
