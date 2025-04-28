@@ -51,11 +51,7 @@ class PendaftarController extends Controller
     /**
      * Menampilkan detail pendaftar tertentu.
      */
-    public function show(Pendaftar $pendaftar)
-    {
-        return view('pendaftar.show', compact('pendaftar'));
-    }
-
+    
     /**
      * Menampilkan form untuk mengedit pendaftar.
      */

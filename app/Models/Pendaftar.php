@@ -10,6 +10,9 @@ class Pendaftar extends Model
 {
     use HasFactory, SoftDeletes;
 
+    // HasFactory Memungkinkan kamu buat data dummy pakai factory (contoh untuk testing atau seeding database
+    // Membuat sistem hapus data tanpa benar-benar menghapus di database
+
     /**
      * The attributes that are mass assignable.
      *

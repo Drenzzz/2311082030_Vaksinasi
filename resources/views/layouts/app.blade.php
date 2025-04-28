@@ -84,7 +84,7 @@
         </main>
 
         <footer class="mt-5 text-center text-muted">
-            <p>&copy; {{ date('Y') }} Aplikasi Manajemen Pendaftaran Vaksinasi</p>
+            <p>&copy; {{ date('Y') }} Aplikasi Manajemen Pendaftaran Vaksinasi by Drenzzz</p>
         </footer>
     </div>
 
